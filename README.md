@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Far Away (Frontend)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Far Away Landing Page](/public/far%20away%20landing%20page.PNG)
 
-## Available Scripts
+## A functional yet simple frontend website for setting tasks to do before travelling
 
-In the project directory, you can run:
+This project is completely built by React and CSS and is a useful demo with the following functionality:
 
-### `npm start`
+- Showcasing the all the tasks added
+- Enabling the user to sort the tasks based on different categories
+- Clearing the entire list of tasks incase of an unintended mistake
+- Enabling the user to mark tasks as complete
+- Task tracker to help the user know the remaining percentage of the total tasks
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to install this demo to your local pc
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1.  Clone this repository in this format - `[git clone](https://github.com/TimoGiathi/Far-Away.git)`
+2.  Open the folder using your IDE and go live and that should be it!
 
-### `npm test`
+## How to use this project for your own use
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Since this is a learning project, I'd encourage you to clone and rename the project and use it as you wish. It can be an awesome boilerplate for your upcoming project. Hope that helps !
 
-### `npm run build`
+## Have any ideas to improve Far Away?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab. If you would like to submit a pull request with a fix please reference the issue you created
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## What is still work in progress
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Far Away is still in the process of making it more aesthetically appealing as the current appearance was just for learning purposes only
+- Far Away is also meant a couple of enhancements to accomodate additional functionalities
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you found this learning project be sure to give me a follow so that we all learn together👍🏽
